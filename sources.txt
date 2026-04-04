@@ -1,0 +1,16 @@
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\Main.java
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\beans\StudentBean.java
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\exceptions\DuplicateEntryException.java
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\exceptions\ERPException.java
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\exceptions\StudentNotFoundException.java
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\model\Attendance.java
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\model\Course.java
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\model\Faculty.java
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\model\Grade.java
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\model\Person.java
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\model\Reportable.java
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\model\Student.java
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\util\AutoSaveThread.java
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\util\DataStore.java
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\util\ReportGenerator.java
+C:\Users\parit\Downloads\UniversityERP_v2\src\erp\view\ERPMainFrame.java
