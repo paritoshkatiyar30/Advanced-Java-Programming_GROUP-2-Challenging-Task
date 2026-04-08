@@ -78,7 +78,7 @@ java -cp out erp.Main
 
 ---
 
-## Features
+## Features of our project
 
 - **Student Management** – Add, Update, Delete, Search students; form auto-populates on table row click; double-click for full detail dialog
 - **Course Management** – Add/Delete courses, link to faculty
