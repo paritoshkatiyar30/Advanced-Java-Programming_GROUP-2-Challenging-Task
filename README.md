@@ -89,3 +89,4 @@ java -cp out erp.Main
 - **AutoSave** – Background daemon thread saves data every 60 seconds to `erp_data.ser`
 - **Persistence** – Data survives across runs via Java Object Serialization
 - **Demo Data** – 5 students, 4 courses, 3 faculty pre-loaded on first run
+Final update by Atharva
